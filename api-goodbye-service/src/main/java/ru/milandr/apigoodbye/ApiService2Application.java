@@ -1,4 +1,4 @@
-package ru.milandr.apiservice2;
+package ru.milandr.apigoodbye;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

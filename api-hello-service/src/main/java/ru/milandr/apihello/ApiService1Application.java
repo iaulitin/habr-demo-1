@@ -1,4 +1,4 @@
-package ru.milandr.apiservice1;
+package ru.milandr.apihello;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
