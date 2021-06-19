@@ -8,11 +8,11 @@
         <version>2.5.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>demo</artifactId>
+    <groupId>ru.milandr</groupId>
+    <artifactId>api-hello-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>api-hello-service</name>
-    <description>api-hello-service</description>
+
     <properties>
         <java.version>1.8</java.version>
         <spring-cloud.version>2020.0.3</spring-cloud.version>
